@@ -1,3 +1,6 @@
 [submodule "parrot-frontend"]
 	path = parrot-frontend
 	url = https://github.com/mekashef/parrot-frontend.git
+[submodule "audio-analytics-pipelines"]
+	path = audio-analytics-pipelines
+	url = https://github.com/mekashef/audio-analytics-pipelines.git
