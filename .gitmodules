@@ -4,3 +4,6 @@
 [submodule "audio-analytics-pipelines"]
 	path = audio-analytics-pipelines
 	url = https://github.com/mekashef/audio-analytics-pipelines.git
+[submodule "general-model-server"]
+	path = general-model-server
+	url = git@github.com:mekashef/general-model-server.git
