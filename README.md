@@ -1,4 +1,6 @@
-# parrot-project
+# Deep Learning Scrapbook Project(parrot-project -> Boston Wearables)
+
+Welcome to the Deep Learning Scrapbook Project! This project is designed to help you capture, organize, and explore visual memories using cutting-edge deep learning techniques. The scrapbook application allows users to create digital scrapbooks where images, videos, and text can be collated and annotated with automated insights, such as object detection, scene recognition, and facial recognition.
 
 ## About the project
 Audio focused Deep learning tool for scrapbooking our lives
