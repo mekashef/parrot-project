@@ -20,6 +20,9 @@ Audio focused Deep learning tool for scrapbooking our lives
 * Kubernetes
 * Cuda
 
+High level architecture diagram
+![Alt Text](assets/parrot-bw-mvp-seed-round.jpg)
+
 ## Example Use Cases
 ### Audio -> Dicussion/Scrapbook 
 ![Alt Text](assets/example_of_audio_to_text_to_dicussion.gif)
