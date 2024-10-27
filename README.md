@@ -20,6 +20,18 @@ Audio focused Deep learning tool for scrapbooking our lives
 * Kubernetes
 * Cuda
 
+
+## Starting the project(frontend and backend)
+1. parrot-frontend
+    * `cd parrot-frontend`
+    * `npm install`
+    * `npm start`
+2. general-model-server
+    * `cd general-model-server`
+    * Enter `api-light`
+    * Install requirements: `pip install -r requirements.txt`
+    * Run the server: `python main.py`
+    
 High level architecture diagram
 ![Alt Text](assets/parrot-bw-mvp-seed-round.jpg)
 
